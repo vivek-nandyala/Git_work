@@ -1,2 +1,4 @@
 this is the user1 edit 1
 this is the new edit by user 1 in file 1
+this is the new edit by user 2 in file 1
+refs/remotes/origin/master
